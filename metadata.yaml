@@ -1,0 +1,32 @@
+_repo: Lights-and-Shadows-of-New-York-Lifeor-the-Sights-and-Sensations-of-the-Great-City_19642
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19642-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McCabe, James Dabney
+    aliases:
+    - McCabe, James D. (James Dabney)
+    - Martin, Edward Winslow
+    birthdate: 1842
+    deathdate: 1883
+    gutenberg_agent_id: '8798'
+    url: http://www.gutenberg.org/2009/agents/8798
+description: ''
+gutenberg_issued: '2006-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Description and travel'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 19th century'
+- !lcc 'F106'
+title: 'Lights and Shadows of New York Life
+
+  or, the Sights and Sensations of the Great City'
+url: http://www.gutenberg.org/ebooks/19642
